@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with catch-all routes (`/*`) in React Router v6.  The catch-all route unexpectedly overrides other routes, causing the not found component to always be displayed. This example showcases the problem and provides a solution.
